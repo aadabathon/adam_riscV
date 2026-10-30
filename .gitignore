@@ -1,0 +1,17 @@
+# Verilator
+obj_dir/
+
+# Build outputs
+build/
+
+# Waveforms
+*.vcd
+*.fst
+
+# Python
+__pycache__/
+
+# Vivado
+.Xil/
+vivado*.jou
+vivado*.log
